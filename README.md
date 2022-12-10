@@ -1,16 +1,16 @@
 # Hi, I am Deepak Kabdwal, Gamedev enthusiast, Senior at Graphic Era Hill University. 
 
-Currently located in Bhimtal, Uttarakhand.
+📍Currently located in Bhimtal, Uttarakhand.
 
 
-Currently working on web app that employ machine learning to detect the user's emotions.
+🎮 Currently working on web app that employ machine learning to detect the user's emotions.
 
 
-Previously worked on Games in Unity, and some facial recognition.
+🌊 Previously worked on Games in Unity, and some facial recognition.
 
-Looking to collaborate on any Unity3D, Unity2D projects.
+👯 Looking to collaborate on any Unity3D, Unity2D projects.
 
-Contact:  [Email](pikabdwal@gmail.com)
+📫 Contact:  [Email](pikabdwal@gmail.com)
           [Linkedin](https://www.linkedin.com/in/deepak-dezcvr-kabdwal/)
 
 
