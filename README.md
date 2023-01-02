@@ -3,7 +3,7 @@
 📍Currently located in Bhimtal, Uttarakhand.
 
 
-🎮 Currently working on web app that employ machine learning to detect the user's emotions.
+🎮 Currently working on something that does something and givesout some other thing.
 
 
 🌊 Previously worked on Games in Unity, and some facial recognition.
