@@ -10,7 +10,7 @@
 
 👯 Looking to collaborate on any Unity3D, Unity2D projects.
 
-📫 Contact:  [Email,](pikabdwal@gmail.com)
+📫 Contact:  [Email,](mailto:pikabdwal@gmail.com)
            [Linkedin](https://www.linkedin.com/in/deepak-dezcvr-kabdwal/)
 
 
