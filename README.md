@@ -3,10 +3,10 @@
 📍Currently located in Bhimtal, Uttarakhand.
 
 
-🎮 Currently working on something that does something and givesout some other thing.
+🎮 Currently working on object detection project with yolo.
 
 
-🌊 Previously worked on Games in Unity, and some facial recognition.
+🌊 Previously worked on Games in Unity, Machine Learning projects, Computer visio projects .
 
 👯 Looking to collaborate on any Unity3D, Unity2D projects.
 
