@@ -6,7 +6,7 @@
 🎮 Currently working on object detection project with yolo.
 
 
-🌊 Previously worked on Games in Unity, Machine Learning projects, Computer visio projects .
+🌊 Previously worked on Games in Unity, Machine Learning projects, Computer vision projects .
 
 👯 Looking to collaborate on any Unity3D, Unity2D projects.
 
