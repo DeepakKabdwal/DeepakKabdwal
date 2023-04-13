@@ -17,6 +17,7 @@
 [![@dezcvr's Holopin board](https://holopin.me/dezcvr)](https://holopin.io/@dezcvr)
 
 
-[![Google Developer Badge]((![image](https://user-images.githubusercontent.com/90624878/231653925-75222dbe-3b52-43f3-8825-b15ffa0a3f06.png))](https://developers.google.com/profile/badges/events/io/2023/attendee)
+![Google Developer Badge](https://user-images.githubusercontent.com/90624878/231653925-75222dbe-3b52-43f3-8825-b15ffa0a3f06.png)
+
 
 
