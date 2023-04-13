@@ -18,6 +18,6 @@
 
 
 [![Google Developer Badge](![image](https://user-images.githubusercontent.com/90624878/231652005-6ed5e0c7-6b47-482d-98aa-46bbf1a63b09.png)
-)](https://g.dev/DeZCvr)
+)](https://developers.google.com/profile/badges/events/io/2023/attendee)
 
 
