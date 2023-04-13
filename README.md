@@ -17,5 +17,5 @@
 [![@dezcvr's Holopin board](https://holopin.me/dezcvr)](https://holopin.io/@dezcvr)
 
 
-https://developers.google.com/profile/badges/events/io/2023/attendee
+[https://developers.google.com/profile/badges/events/io/2023/attendee](https://g.dev/DeZCvr)
 
